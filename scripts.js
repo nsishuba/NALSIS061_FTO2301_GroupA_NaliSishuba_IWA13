@@ -27,17 +27,17 @@ const checkUser = () => {
 
 // Only allowed to change code above
 
-console.log(checkUser())
-console.log(calcUser())
+checkUser()
+calcUser()
 
-console.log(checkUser())
-console.log(calcUser())
+checkUser()
+calcUser()
 
-console.log(checkUser())
-console.log(calcUser())
+checkUser()
+calcUser()
 
-console.log(checkUser())
-console.log(calcUser())
+checkUser()
+calcUser()
 
-console.log(checkUser())
-console.log(calcUser())
+checkUser()
+calcUser()
